@@ -1,2 +1,2 @@
-# Analytics-using-Python---Home-Loan
+# Analytics using Python-Home loan eligibility
 Performed EDA on a home loan dataset and created visualizations using seaborn library to analyze the factors affecting home loan eligibility.
