@@ -1,7 +1,7 @@
 # Analytics using Python-Home loan eligibility
 A loan is a form of debt incurred by an individual or other entity. The lender—usually a corporation, financial institution, or government—advances a sum of money to the borrower. In return, the borrower agrees to a certain set of terms including any finance charges, interest, repayment date, and other conditions.
 
-Types of Loans:
+Types of Loan.
 -Personal Loans
 -Credit Card Loans
 -Home Loans
@@ -22,3 +22,4 @@ Employment Status:
 Just like the income, employment status is also important and a factor for approving loans.
 Age & Educational Background:
 These also have a role to decide for the lender for approving the loan.
+[B_XLR8.write-up.docx](https://github.com/HimaniPant17/Analytics-using-Python---Home-Loan/files/7920702/B_XLR8.write-up.docx)
