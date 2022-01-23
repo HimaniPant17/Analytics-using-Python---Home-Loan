@@ -1,13 +1,13 @@
 # Analytics using Python-Home loan eligibility
 A loan is a form of debt incurred by an individual or other entity. The lender—usually a corporation, financial institution, or government—advances a sum of money to the borrower. In return, the borrower agrees to a certain set of terms including any finance charges, interest, repayment date, and other conditions
 
-Types of Loan are.	
--Personal Loans	
--Credit Card Loans	
--Home Loans	
--Car Loans		
--Gold Loans	
--Small Business Loans, etc.	
+Types of Loan are:
+1.Personal Loans	
+2.Credit Card Loans	
+3.Home Loans	
+4.Car Loans		
+5.Gold Loans	
+6.Small Business Loans, etc.	
 
 Performed EDA on a home loan dataset and created visualizations using seaborn library to analyze the factors affecting home loan eligibility.
 
