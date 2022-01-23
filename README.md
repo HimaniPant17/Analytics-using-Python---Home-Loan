@@ -2,6 +2,7 @@
 A loan is a form of debt incurred by an individual or other entity. The lender—usually a corporation, financial institution, or government—advances a sum of money to the borrower. In return, the borrower agrees to a certain set of terms including any finance charges, interest, repayment date, and other conditions
 
 Types of Loan are:
+
 1.Personal Loans	
 2.Credit Card Loans	
 3.Home Loans	
